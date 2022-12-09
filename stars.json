@@ -1,37 +1,49 @@
 [
   {
+    "full_name": "sanyam810/conductor",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Netflix/conductor",
+    "stargazers_count": 7253,
+    "open_issues_count": 91,
+    "forks_count": 1914
+  },
+  {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6055,
+    "stargazers_count": 6057,
     "open_issues_count": 24,
     "forks_count": 299
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 9343,
+    "stargazers_count": 9465,
     "open_issues_count": 36,
-    "forks_count": 333
+    "forks_count": 335
   },
   {
     "full_name": "EddieHubCommunity/hacktoberfest-practice",
-    "stargazers_count": 371,
-    "open_issues_count": 9,
-    "forks_count": 1720
+    "stargazers_count": 373,
+    "open_issues_count": 12,
+    "forks_count": 1722
   },
   {
     "full_name": "verma-kunal/DevOps-90",
-    "stargazers_count": 141,
+    "stargazers_count": 142,
     "open_issues_count": 2,
-    "forks_count": 24
+    "forks_count": 23
   },
   {
     "full_name": "Dun-sin/Code-Magic",
-    "stargazers_count": 211,
+    "stargazers_count": 212,
     "open_issues_count": 4,
-    "forks_count": 131
+    "forks_count": 132
   },
   {
     "full_name": "30-seconds/30-seconds-of-interviews",
-    "stargazers_count": 10939,
+    "stargazers_count": 10949,
     "open_issues_count": 19,
     "forks_count": 956
   },
@@ -45,7 +57,7 @@
     "full_name": "kunal-kushwaha/DevOps-Bootcamp",
     "stargazers_count": 1418,
     "open_issues_count": 32,
-    "forks_count": 645
+    "forks_count": 648
   },
   {
     "full_name": "sanyam810/ERC20_Token",
