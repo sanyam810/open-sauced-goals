@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "adrianhajdin/project_3D_developer_portfolio",
+    "stargazers_count": 963,
+    "open_issues_count": 11,
+    "forks_count": 201
+  },
+  {
     "full_name": "Google-Summer-of-Code-Archive/gsoc-proposals-archive",
-    "stargazers_count": 308,
+    "stargazers_count": 310,
     "open_issues_count": 4,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "sanyam810/conductor",
@@ -13,45 +19,45 @@
   },
   {
     "full_name": "Netflix/conductor",
-    "stargazers_count": 8178,
-    "open_issues_count": 108,
+    "stargazers_count": 8174,
+    "open_issues_count": 97,
     "forks_count": 2096
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6183,
-    "open_issues_count": 27,
-    "forks_count": 316
+    "stargazers_count": 6190,
+    "open_issues_count": 28,
+    "forks_count": 315
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 11906,
+    "stargazers_count": 11957,
     "open_issues_count": 42,
     "forks_count": 366
   },
   {
     "full_name": "EddieHubCommunity/hacktoberfest-practice",
-    "stargazers_count": 411,
-    "open_issues_count": 44,
-    "forks_count": 1990
+    "stargazers_count": 414,
+    "open_issues_count": 50,
+    "forks_count": 2006
   },
   {
     "full_name": "verma-kunal/DevOps-90",
-    "stargazers_count": 146,
+    "stargazers_count": 145,
     "open_issues_count": 2,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "Dun-sin/Code-Magic",
     "stargazers_count": 285,
-    "open_issues_count": 2,
-    "forks_count": 144
+    "open_issues_count": 4,
+    "forks_count": 145
   },
   {
     "full_name": "30-seconds/30-seconds-of-interviews",
-    "stargazers_count": 11207,
+    "stargazers_count": 11210,
     "open_issues_count": 20,
-    "forks_count": 973
+    "forks_count": 974
   },
   {
     "full_name": "sanyam810/LeetCode_TopicWise_Problems",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "kunal-kushwaha/DevOps-Bootcamp",
-    "stargazers_count": 1535,
+    "stargazers_count": 1542,
     "open_issues_count": 39,
-    "forks_count": 752
+    "forks_count": 753
   },
   {
     "full_name": "sanyam810/ERC20_Token",
