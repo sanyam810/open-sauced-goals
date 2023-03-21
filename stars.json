@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "sanyam810/foodfulLanding",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "adrianhajdin/project_3D_developer_portfolio",
-    "stargazers_count": 1088,
-    "open_issues_count": 15,
-    "forks_count": 242
+    "stargazers_count": 1229,
+    "open_issues_count": 16,
+    "forks_count": 282
   },
   {
     "full_name": "Google-Summer-of-Code-Archive/gsoc-proposals-archive",
-    "stargazers_count": 313,
+    "stargazers_count": 314,
     "open_issues_count": 4,
     "forks_count": 92
   },
@@ -19,27 +25,27 @@
   },
   {
     "full_name": "Netflix/conductor",
-    "stargazers_count": 8180,
-    "open_issues_count": 95,
-    "forks_count": 2097
+    "stargazers_count": 8187,
+    "open_issues_count": 96,
+    "forks_count": 2098
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6193,
+    "stargazers_count": 6196,
     "open_issues_count": 25,
     "forks_count": 314
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 12004,
-    "open_issues_count": 45,
-    "forks_count": 366
+    "stargazers_count": 12061,
+    "open_issues_count": 43,
+    "forks_count": 367
   },
   {
     "full_name": "EddieHubCommunity/hacktoberfest-practice",
-    "stargazers_count": 417,
-    "open_issues_count": 59,
-    "forks_count": 2012
+    "stargazers_count": 418,
+    "open_issues_count": 57,
+    "forks_count": 2019
   },
   {
     "full_name": "verma-kunal/DevOps-90",
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "Dun-sin/Code-Magic",
-    "stargazers_count": 287,
-    "open_issues_count": 4,
+    "stargazers_count": 289,
+    "open_issues_count": 2,
     "forks_count": 144
   },
   {
     "full_name": "30-seconds/30-seconds-of-interviews",
-    "stargazers_count": 11215,
+    "stargazers_count": 11219,
     "open_issues_count": 20,
-    "forks_count": 975
+    "forks_count": 974
   },
   {
     "full_name": "sanyam810/LeetCode_TopicWise_Problems",
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "kunal-kushwaha/DevOps-Bootcamp",
-    "stargazers_count": 1548,
+    "stargazers_count": 1552,
     "open_issues_count": 39,
-    "forks_count": 758
+    "forks_count": 761
   },
   {
     "full_name": "sanyam810/ERC20_Token",
