@@ -1,8 +1,8 @@
 [
   {
     "full_name": "godspeedsystems/gs-node-service",
-    "stargazers_count": 338,
-    "open_issues_count": 97,
+    "stargazers_count": 337,
+    "open_issues_count": 99,
     "forks_count": 10
   },
   {
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "WeMakeDevs/roadmaps",
-    "stargazers_count": 3683,
+    "stargazers_count": 3689,
     "open_issues_count": 45,
-    "forks_count": 1193
+    "forks_count": 1195
   },
   {
     "full_name": "sanyam810/foodfulLanding",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "adrianhajdin/project_3D_developer_portfolio",
-    "stargazers_count": 4665,
-    "open_issues_count": 83,
-    "forks_count": 1031
+    "stargazers_count": 4681,
+    "open_issues_count": 84,
+    "forks_count": 1032
   },
   {
     "full_name": "Google-Summer-of-Code-Archive/gsoc-proposals-archive",
-    "stargazers_count": 379,
+    "stargazers_count": 381,
     "open_issues_count": 4,
     "forks_count": 102
   },
@@ -43,27 +43,27 @@
   },
   {
     "full_name": "Netflix/conductor",
-    "stargazers_count": 12987,
+    "stargazers_count": 12978,
     "open_issues_count": 165,
     "forks_count": 2346
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6374,
+    "stargazers_count": 6379,
     "open_issues_count": 26,
-    "forks_count": 357
+    "forks_count": 358
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 14811,
+    "stargazers_count": 14837,
     "open_issues_count": 18,
     "forks_count": 409
   },
   {
     "full_name": "EddieHubCommunity/open-source-practice",
-    "stargazers_count": 592,
-    "open_issues_count": 14,
-    "forks_count": 2560
+    "stargazers_count": 593,
+    "open_issues_count": 19,
+    "forks_count": 2568
   },
   {
     "full_name": "verma-kunal/DevOps-90",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "Dun-sin/Code-Magic",
-    "stargazers_count": 375,
+    "stargazers_count": 373,
     "open_issues_count": 5,
     "forks_count": 198
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-interviews",
-    "stargazers_count": 11835,
+    "stargazers_count": 11837,
     "open_issues_count": 20,
-    "forks_count": 1008
+    "forks_count": 1009
   },
   {
     "full_name": "sanyam810/LeetCode_TopicWise_Problems",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "kunal-kushwaha/DevOps-Bootcamp",
-    "stargazers_count": 1923,
+    "stargazers_count": 1926,
     "open_issues_count": 60,
-    "forks_count": 1072
+    "forks_count": 1073
   },
   {
     "full_name": "sanyam810/ERC20_Token",
