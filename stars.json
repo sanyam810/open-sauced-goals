@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "nidorx/matcaps",
+    "stargazers_count": 2386,
+    "open_issues_count": 2,
+    "forks_count": 219
+  },
+  {
     "full_name": "apteryxxyz/next-ws",
-    "stargazers_count": 104,
+    "stargazers_count": 105,
     "open_issues_count": 8,
     "forks_count": 8
   },
   {
     "full_name": "conductor-oss/conductor",
-    "stargazers_count": 10475,
-    "open_issues_count": 44,
-    "forks_count": 251
+    "stargazers_count": 10566,
+    "open_issues_count": 45,
+    "forks_count": 252
   },
   {
     "full_name": "wayoda/LedControl",
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "godspeedsystems/gs-node-service",
-    "stargazers_count": 618,
+    "stargazers_count": 622,
     "open_issues_count": 50,
     "forks_count": 14
   },
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "WeMakeDevs/roadmaps",
-    "stargazers_count": 3852,
+    "stargazers_count": 3856,
     "open_issues_count": 44,
     "forks_count": 1186
   },
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "adrianhajdin/project_3D_developer_portfolio",
-    "stargazers_count": 5182,
+    "stargazers_count": 5187,
     "open_issues_count": 91,
-    "forks_count": 1131
+    "forks_count": 1133
   },
   {
     "full_name": "Google-Summer-of-Code-Archive/gsoc-proposals-archive",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "Netflix/conductor",
-    "stargazers_count": 12918,
+    "stargazers_count": 12912,
     "open_issues_count": 165,
-    "forks_count": 2335
+    "forks_count": 2336
   },
   {
     "full_name": "datreeio/datree",
@@ -73,15 +79,15 @@
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 16395,
-    "open_issues_count": 18,
-    "forks_count": 422
+    "stargazers_count": 16427,
+    "open_issues_count": 19,
+    "forks_count": 421
   },
   {
     "full_name": "EddieHubCommunity/open-source-practice",
-    "stargazers_count": 625,
-    "open_issues_count": 18,
-    "forks_count": 2669
+    "stargazers_count": 624,
+    "open_issues_count": 20,
+    "forks_count": 2668
   },
   {
     "full_name": "verma-kunal/DevOps-90",
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-interviews",
-    "stargazers_count": 11907,
+    "stargazers_count": 11910,
     "open_issues_count": 20,
     "forks_count": 963
   },
