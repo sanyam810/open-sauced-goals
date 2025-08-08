@@ -1,61 +1,61 @@
 [
   {
     "full_name": "joho/godotenv",
-    "stargazers_count": 9602,
+    "stargazers_count": 9618,
     "open_issues_count": 77,
-    "forks_count": 430
+    "forks_count": 432
   },
   {
     "full_name": "AleksK1NG/Go-gRPC-RabbitMQ-microservice",
-    "stargazers_count": 265,
+    "stargazers_count": 267,
     "open_issues_count": 0,
     "forks_count": 52
   },
   {
     "full_name": "golang-standards/project-layout",
-    "stargazers_count": 53359,
-    "open_issues_count": 95,
+    "stargazers_count": 53387,
+    "open_issues_count": 94,
     "forks_count": 5365
   },
   {
     "full_name": "meysamhadeli/shop-golang-microservices",
-    "stargazers_count": 373,
+    "stargazers_count": 372,
     "open_issues_count": 5,
-    "forks_count": 55
+    "forks_count": 54
   },
   {
     "full_name": "ThreeDotsLabs/wild-workouts-go-ddd-example",
-    "stargazers_count": 5822,
+    "stargazers_count": 5833,
     "open_issues_count": 32,
     "forks_count": 530
   },
   {
     "full_name": "yorukot/superfile",
-    "stargazers_count": 14482,
-    "open_issues_count": 132,
-    "forks_count": 360
+    "stargazers_count": 14501,
+    "open_issues_count": 136,
+    "forks_count": 361
   },
   {
     "full_name": "ente-io/ente",
-    "stargazers_count": 20850,
-    "open_issues_count": 389,
-    "forks_count": 1189
+    "stargazers_count": 20893,
+    "open_issues_count": 397,
+    "forks_count": 1194
   },
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 19301,
-    "open_issues_count": 527,
-    "forks_count": 730
+    "stargazers_count": 19328,
+    "open_issues_count": 523,
+    "forks_count": 734
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 52113,
-    "open_issues_count": 804,
-    "forks_count": 4592
+    "stargazers_count": 52185,
+    "open_issues_count": 799,
+    "forks_count": 4597
   },
   {
     "full_name": "nidorx/matcaps",
-    "stargazers_count": 2933,
+    "stargazers_count": 2938,
     "open_issues_count": 2,
     "forks_count": 262
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "conductor-oss/conductor",
-    "stargazers_count": 24628,
-    "open_issues_count": 86,
-    "forks_count": 642
+    "stargazers_count": 24680,
+    "open_issues_count": 88,
+    "forks_count": 644
   },
   {
     "full_name": "wayoda/LedControl",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "WeMakeDevs/roadmaps",
-    "stargazers_count": 4070,
+    "stargazers_count": 4069,
     "open_issues_count": 41,
     "forks_count": 1180
   },
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "adrianhajdin/project_3D_developer_portfolio",
-    "stargazers_count": 6864,
+    "stargazers_count": 6866,
     "open_issues_count": 120,
     "forks_count": 1597
   },
   {
     "full_name": "Google-Summer-of-Code-Archive/gsoc-proposals-archive",
-    "stargazers_count": 471,
+    "stargazers_count": 473,
     "open_issues_count": 2,
     "forks_count": 118
   },
@@ -111,7 +111,7 @@
     "full_name": "Netflix/conductor",
     "stargazers_count": 12769,
     "open_issues_count": 164,
-    "forks_count": 2349
+    "forks_count": 2347
   },
   {
     "full_name": "datreeio/datree",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 19560,
-    "open_issues_count": 46,
+    "stargazers_count": 19566,
+    "open_issues_count": 47,
     "forks_count": 540
   },
   {
     "full_name": "EddieHubCommunity/open-source-practice",
     "stargazers_count": 706,
     "open_issues_count": 5,
-    "forks_count": 2784
+    "forks_count": 2787
   },
   {
     "full_name": "verma-kunal/DevOps-90",
@@ -159,7 +159,7 @@
     "full_name": "kunal-kushwaha/DevOps-Bootcamp",
     "stargazers_count": 2260,
     "open_issues_count": 60,
-    "forks_count": 1286
+    "forks_count": 1285
   },
   {
     "full_name": "sanyam810/ERC20_Token",
